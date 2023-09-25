@@ -888,3 +888,486 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.25-17.07.24:448][  0]LogMaterial: Display: Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: B8C64BA0D1F727AD632190956B2112B5FC16C320), compiling. 
 [2023.09.25-17.07.24:547][  0]LogMaterial: Display: Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 4034909D46D5A282BD7D6398716A5ED5BC789F9A), compiling. 
 [2023.09.25-17.09.32:445][  0]LogDerivedDataCache: C:/Users/joher/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.138 and deleted 0 files with total size 0 MiB. Scanned 7050 files in 6981 folders with total size 1216 MiB.
+[2023.09.25-17.13.07:108][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 290F921C268193955312988EFC3BA44F85D38587), compiling. 
+[2023.09.25-17.13.07:123][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-82CLVNS: (Name=DESKTOP-82CLVNS, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2023.09.25-17.13.08:279][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.09.25-17.13.08:279][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.09.25-17.13.08:279][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.09.25-17.13.08:279][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.09.25-17.13.08:279][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.09.25-17.13.08:410][  0]LogNetVersion: EscapeRoom 1.0.0, NetCL: 23058290, EngineNetVer: 30, GameNetVer: 0 (Checksum: 4280485437)
+[2023.09.25-17.13.08:794][  0]LogUObjectArray: 20936 objects as part of root set at end of initial load.
+[2023.09.25-17.13.08:794][  0]LogUObjectAllocator: 5786376 out of 0 bytes used by permanent object pool.
+[2023.09.25-17.13.08:794][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.09.25-17.13.08:813][  0]LogSlate: Border
+[2023.09.25-17.13.08:813][  0]LogSlate: BreadcrumbButton
+[2023.09.25-17.13.08:813][  0]LogSlate: Brushes.Title
+[2023.09.25-17.13.08:813][  0]LogSlate: Default
+[2023.09.25-17.13.08:813][  0]LogSlate: Icons.Save
+[2023.09.25-17.13.08:813][  0]LogSlate: Icons.Toolbar.Settings
+[2023.09.25-17.13.08:813][  0]LogSlate: ListView
+[2023.09.25-17.13.08:813][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.09.25-17.13.08:813][  0]LogSlate: SoftwareCursor_Grab
+[2023.09.25-17.13.08:813][  0]LogSlate: TableView.DarkRow
+[2023.09.25-17.13.08:813][  0]LogSlate: TableView.Row
+[2023.09.25-17.13.08:813][  0]LogSlate: TreeView
+[2023.09.25-17.13.09:024][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6DE2177848FA583C188E60B09006F79A | Instance: 0CAF95524207AB9B54D2B2BE5E7B2EDF (DESKTOP-82CLVNS-22948).
+[2023.09.25-17.13.09:164][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.09.25-17.13.09:180][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2023.09.25-17.13.09:323][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.09.25-17.13.09:344][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.09.25-17.13.09:346][  0]LogUdpMessaging: Display: Added local interface '192.168.1.46' to multicast group '230.0.0.1:6666'
+[2023.09.25-17.13.09:393][  0]LogPython: Using Python 3.9.7
+[2023.09.25-17.13.10:147][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.09.25-17.13.10:157][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.25-17.13.10:157][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.09.25-17.13.10:217][  0]SourceControl: El control de código fuente está desactivado
+[2023.09.25-17.13.10:222][  0]SourceControl: El control de código fuente está desactivado
+[2023.09.25-17.13.10:226][  0]SourceControl: El control de código fuente está desactivado
+[2023.09.25-17.13.10:230][  0]LogUProjectInfo: Found projects:
+[2023.09.25-17.13.10:231][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.25-17.13.10:231][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.25-17.13.10:232][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.25-17.13.10:704][  0]LogOpenImageDenoise: OIDN starting up
+[2023.09.25-17.13.10:737][  0]LogCollectionManager: Loaded 0 collections in 0.000961 seconds
+[2023.09.25-17.13.10:739][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Saved/Collections/' took 0.00s
+[2023.09.25-17.13.10:741][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/Developers/joher/Collections/' took 0.00s
+[2023.09.25-17.13.10:742][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/Collections/' took 0.00s
+[2023.09.25-17.13.11:041][  0]LogEngine: Initializing Engine...
+[2023.09.25-17.13.11:048][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.09.25-17.13.11:080][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.09.25-17.13.11:081][  0]LogMaterial: Display: Missing cached shadermap for WireframeMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 0E9698C4697E872CBAA750A81F13B17C7CEA9AAD), compiling. Is special engine material.
+[2023.09.25-17.13.11:084][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: F94896208BB2C48320F28BA2B200D9B09C2924D7), compiling. Is special engine material.
+[2023.09.25-17.13.11:086][  0]LogMaterial: Display: Missing cached shadermap for LevelColorationUnlitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: C69B3513A9BCE1B5877E8C1F14F444F2E516C54A), compiling. Is special engine material.
+[2023.09.25-17.13.11:089][  0]LogMaterial: Display: Missing cached shadermap for MAT_LevelColorationLitLightmapUV in PCD3D_SM6, Default, SM6 (DDC key hash: 6A6B6CA42A1CFE73D98380E44359090BD1019353), compiling. Is special engine material.
+[2023.09.25-17.13.11:092][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationLitMaterial in PCD3D_SM6, Default, SM6 (DDC key hash: 7860C6F9C70533941C3C28714AFF4744F9ACB6BC), compiling. Is special engine material.
+[2023.09.25-17.13.11:094][  0]LogMaterial: Display: Missing cached shadermap for ShadedLevelColorationUnlitMateri in PCD3D_SM6, Default, SM6 (DDC key hash: 8163769FA55201E2D8B7175BC0E56F9348F0AC32), compiling. Is special engine material.
+[2023.09.25-17.13.11:157][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.09.25-17.13.11:170][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.25-17.13.11:184][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.09.25-17.13.11:185][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.09.25-17.13.11:185][  0]LogInit: Texture streaming: Enabled
+[2023.09.25-17.13.11:201][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.1.1-23901901+++UE5+Release-5.1
+[2023.09.25-17.13.11:210][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.09.25-17.13.11:221][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.09.25-17.13.11:222][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.09.25-17.13.11:223][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2023.09.25-17.13.11:224][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2023.09.25-17.13.11:224][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2023.09.25-17.13.11:224][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2023.09.25-17.13.11:224][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2023.09.25-17.13.11:225][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.09.25-17.13.11:225][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.09.25-17.13.11:225][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.25-17.13.11:225][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.25-17.13.11:225][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.25-17.13.11:225][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.25-17.13.11:225][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.25-17.13.11:225][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.25-17.13.11:225][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.25-17.13.11:225][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.25-17.13.11:225][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.25-17.13.11:225][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.25-17.13.11:225][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.25-17.13.11:230][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.25-17.13.11:251][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Logitech G733 Gaming Headset)
+[2023.09.25-17.13.11:252][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.25-17.13.11:254][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.25-17.13.11:254][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.25-17.13.11:255][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.09.25-17.13.11:255][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2023.09.25-17.13.11:256][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.09.25-17.13.11:256][  0]LogInit: FAudioDevice initialized.
+[2023.09.25-17.13.11:256][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.09.25-17.13.11:256][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.09.25-17.13.11:269][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.09.25-17.13.11:275][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.09.25-17.13.11:275][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.09.25-17.13.11:277][  0]LogLiveCoding: Display: First instance in process group "UE_EscapeRoom_0xaf9d0e33", spawning console
+[2023.09.25-17.13.11:281][  0]LogLiveCoding: Display: Waiting for server
+[2023.09.25-17.13.11:899][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.09.25-17.13.11:921][  0]LogInit: Transaction tracking system initialized
+[2023.09.25-17.13.11:946][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2023.09.25-17.13.11:948][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.001857 seconds (Found 115 uncontrolled assets)
+[2023.09.25-17.13.11:975][  0]BlueprintLog: New page: Cargar el editor
+[2023.09.25-17.13.12:092][  0]LocalizationService: Localization service is disabled
+[2023.09.25-17.13.12:117][  0]TimingProfiler: Initialize
+[2023.09.25-17.13.12:117][  0]TimingProfiler: OnSessionChanged
+[2023.09.25-17.13.12:117][  0]LoadingProfiler: Initialize
+[2023.09.25-17.13.12:117][  0]LoadingProfiler: OnSessionChanged
+[2023.09.25-17.13.12:117][  0]NetworkingProfiler: Initialize
+[2023.09.25-17.13.12:117][  0]NetworkingProfiler: OnSessionChanged
+[2023.09.25-17.13.12:117][  0]MemoryProfiler: Initialize
+[2023.09.25-17.13.12:117][  0]MemoryProfiler: OnSessionChanged
+[2023.09.25-17.13.12:238][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.25-17.13.12:238][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.25-17.13.12:238][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.09.25-17.13.12:382][  0]LogFileCache: Scanning file cache for directory 'C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/' took 0.01s
+[2023.09.25-17.13.12:701][  0]LogEditorDomain: Display: Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[2023.09.25-17.13.12:727][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.09.25-17.13.12:885][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.09.25-17.13.12:888][  0]SourceControl: El control de código fuente está desactivado
+[2023.09.25-17.13.12:888][  0]LogUnrealEdMisc: Loading editor; pre map load, took 354.973
+[2023.09.25-17.13.12:928][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic games/UE_5.1/FeaturePacks/StarterContent.upack)
+[2023.09.25-17.13.13:007][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2023.09.25-17.13.13:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2023.09.25-17.13.13:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2023.09.25-17.13.13:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2023.09.25-17.13.13:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2023.09.25-17.13.13:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2023.09.25-17.13.13:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2023.09.25-17.13.13:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2023.09.25-17.13.13:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2023.09.25-17.13.13:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2023.09.25-17.13.13:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2023.09.25-17.13.13:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2023.09.25-17.13.13:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2023.09.25-17.13.13:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2023.09.25-17.13.13:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/P_Explosion.uasset"
+[2023.09.25-17.13.13:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/P_Fire.uasset"
+[2023.09.25-17.13.13:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/P_Smoke.uasset"
+[2023.09.25-17.13.13:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/P_Sparks.uasset"
+[2023.09.25-17.13.13:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2023.09.25-17.13.13:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Collapse01.uasset"
+[2023.09.25-17.13.13:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Collapse02.uasset"
+[2023.09.25-17.13.13:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2023.09.25-17.13.13:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Explosion01.uasset"
+[2023.09.25-17.13.13:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Explosion02.uasset"
+[2023.09.25-17.13.13:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2023.09.25-17.13.13:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Fire01.uasset"
+[2023.09.25-17.13.13:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2023.09.25-17.13.13:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2023.09.25-17.13.13:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2023.09.25-17.13.13:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Light01.uasset"
+[2023.09.25-17.13.13:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2023.09.25-17.13.13:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Light02.uasset"
+[2023.09.25-17.13.13:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2023.09.25-17.13.13:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Smoke01.uasset"
+[2023.09.25-17.13.13:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2023.09.25-17.13.13:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2023.09.25-17.13.13:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2023.09.25-17.13.13:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2023.09.25-17.13.13:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2023.09.25-17.13.13:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2023.09.25-17.13.13:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2023.09.25-17.13.13:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Steam01.uasset"
+[2023.09.25-17.13.13:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2023.09.25-17.13.13:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2023.09.25-17.13.13:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2023.09.25-17.13.13:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2023.09.25-17.13.13:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2023.09.25-17.13.13:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2023.09.25-17.13.13:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2023.09.25-17.13.13:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2023.09.25-17.13.13:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2023.09.25-17.13.13:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2023.09.25-17.13.13:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2023.09.25-17.13.13:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Maps/Minimal_Default.umap"
+[2023.09.25-17.13.13:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2023.09.25-17.13.13:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Maps/StarterMap.umap"
+[2023.09.25-17.13.14:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2023.09.25-17.13.14:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2023.09.25-17.13.14:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2023.09.25-17.13.14:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2023.09.25-17.13.14:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2023.09.25-17.13.14:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2023.09.25-17.13.14:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2023.09.25-17.13.14:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2023.09.25-17.13.14:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2023.09.25-17.13.14:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2023.09.25-17.13.14:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2023.09.25-17.13.14:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2023.09.25-17.13.14:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2023.09.25-17.13.14:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2023.09.25-17.13.14:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2023.09.25-17.13.14:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2023.09.25-17.13.14:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2023.09.25-17.13.14:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2023.09.25-17.13.14:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2023.09.25-17.13.14:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2023.09.25-17.13.14:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/MaterialSphere.uasset"
+[2023.09.25-17.13.14:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Bush.uasset"
+[2023.09.25-17.13.14:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Chair.uasset"
+[2023.09.25-17.13.14:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2023.09.25-17.13.14:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Couch.uasset"
+[2023.09.25-17.13.14:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Door.uasset"
+[2023.09.25-17.13.14:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2023.09.25-17.13.14:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2023.09.25-17.13.14:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2023.09.25-17.13.14:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2023.09.25-17.13.14:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2023.09.25-17.13.14:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2023.09.25-17.13.14:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Rock.uasset"
+[2023.09.25-17.13.14:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Shelf.uasset"
+[2023.09.25-17.13.14:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Stairs.uasset"
+[2023.09.25-17.13.14:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_Statue.uasset"
+[2023.09.25-17.13.14:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_TableRound.uasset"
+[2023.09.25-17.13.14:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2023.09.25-17.13.14:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2023.09.25-17.13.14:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2023.09.25-17.13.14:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2023.09.25-17.13.14:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2023.09.25-17.13.14:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2023.09.25-17.13.14:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2023.09.25-17.13.14:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2023.09.25-17.13.14:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2023.09.25-17.13.14:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2023.09.25-17.13.14:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2023.09.25-17.13.14:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2023.09.25-17.13.14:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2023.09.25-17.13.14:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2023.09.25-17.13.14:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2023.09.25-17.13.14:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2023.09.25-17.13.14:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2023.09.25-17.13.14:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2023.09.25-17.13.14:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Glass.uasset"
+[2023.09.25-17.13.14:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2023.09.25-17.13.14:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2023.09.25-17.13.14:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2023.09.25-17.13.14:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2023.09.25-17.13.14:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2023.09.25-17.13.14:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2023.09.25-17.13.14:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2023.09.25-17.13.14:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2023.09.25-17.13.14:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2023.09.25-17.13.14:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2023.09.25-17.13.14:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2023.09.25-17.13.14:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2023.09.25-17.13.14:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2023.09.25-17.13.14:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2023.09.25-17.13.14:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2023.09.25-17.13.14:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2023.09.25-17.13.14:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2023.09.25-17.13.14:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2023.09.25-17.13.14:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2023.09.25-17.13.14:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2023.09.25-17.13.14:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2023.09.25-17.13.14:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2023.09.25-17.13.14:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2023.09.25-17.13.14:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2023.09.25-17.13.14:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2023.09.25-17.13.14:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2023.09.25-17.13.14:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2023.09.25-17.13.14:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2023.09.25-17.13.14:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2023.09.25-17.13.14:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2023.09.25-17.13.14:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2023.09.25-17.13.14:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2023.09.25-17.13.14:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2023.09.25-17.13.15:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2023.09.25-17.13.15:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2023.09.25-17.13.15:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2023.09.25-17.13.15:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2023.09.25-17.13.15:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2023.09.25-17.13.15:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2023.09.25-17.13.15:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2023.09.25-17.13.15:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2023.09.25-17.13.15:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2023.09.25-17.13.15:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2023.09.25-17.13.15:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2023.09.25-17.13.15:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2023.09.25-17.13.15:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2023.09.25-17.13.15:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2023.09.25-17.13.15:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2023.09.25-17.13.15:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2023.09.25-17.13.15:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2023.09.25-17.13.15:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2023.09.25-17.13.15:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2023.09.25-17.13.15:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2023.09.25-17.13.15:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2023.09.25-17.13.15:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2023.09.25-17.13.15:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2023.09.25-17.13.16:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2023.09.25-17.13.16:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2023.09.25-17.13.16:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2023.09.25-17.13.16:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2023.09.25-17.13.16:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2023.09.25-17.13.16:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2023.09.25-17.13.16:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2023.09.25-17.13.16:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2023.09.25-17.13.16:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Door_M.uasset"
+[2023.09.25-17.13.16:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Door_N.uasset"
+[2023.09.25-17.13.16:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2023.09.25-17.13.16:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2023.09.25-17.13.16:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2023.09.25-17.13.16:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2023.09.25-17.13.16:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2023.09.25-17.13.16:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2023.09.25-17.13.16:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2023.09.25-17.13.16:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2023.09.25-17.13.16:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2023.09.25-17.13.16:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2023.09.25-17.13.16:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2023.09.25-17.13.16:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2023.09.25-17.13.16:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2023.09.25-17.13.16:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2023.09.25-17.13.16:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2023.09.25-17.13.16:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2023.09.25-17.13.17:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2023.09.25-17.13.17:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2023.09.25-17.13.17:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2023.09.25-17.13.17:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2023.09.25-17.13.17:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2023.09.25-17.13.17:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2023.09.25-17.13.17:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2023.09.25-17.13.17:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2023.09.25-17.13.17:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2023.09.25-17.13.17:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2023.09.25-17.13.17:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2023.09.25-17.13.17:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2023.09.25-17.13.17:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2023.09.25-17.13.17:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2023.09.25-17.13.17:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2023.09.25-17.13.17:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2023.09.25-17.13.17:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2023.09.25-17.13.18:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2023.09.25-17.13.18:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2023.09.25-17.13.18:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2023.09.25-17.13.18:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2023.09.25-17.13.18:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2023.09.25-17.13.18:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2023.09.25-17.13.18:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2023.09.25-17.13.18:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2023.09.25-17.13.18:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2023.09.25-17.13.18:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2023.09.25-17.13.18:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2023.09.25-17.13.18:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2023.09.25-17.13.18:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2023.09.25-17.13.18:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2023.09.25-17.13.18:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2023.09.25-17.13.18:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2023.09.25-17.13.18:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2023.09.25-17.13.18:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2023.09.25-17.13.18:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Water_M.uasset"
+[2023.09.25-17.13.18:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Water_N.uasset"
+[2023.09.25-17.13.18:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2023.09.25-17.13.18:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2023.09.25-17.13.18:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2023.09.25-17.13.18:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2023.09.25-17.13.18:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2023.09.25-17.13.18:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2023.09.25-17.13.18:735][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2023.09.25-17.13.18:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2023.09.25-17.13.18:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2023.09.25-17.13.18:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2023.09.25-17.13.18:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2023.09.25-17.13.18:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2023.09.25-17.13.18:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2023.09.25-17.13.18:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2023.09.25-17.13.18:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2023.09.25-17.13.18:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2023.09.25-17.13.18:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2023.09.25-17.13.18:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2023.09.25-17.13.18:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2023.09.25-17.13.18:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2023.09.25-17.13.18:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2023.09.25-17.13.18:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2023.09.25-17.13.18:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2023.09.25-17.13.18:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2023.09.25-17.13.18:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2023.09.25-17.13.18:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2023.09.25-17.13.18:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2023.09.25-17.13.18:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2023.09.25-17.13.18:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2023.09.25-17.13.18:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2023.09.25-17.13.18:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2023.09.25-17.13.18:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2023.09.25-17.13.18:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2023.09.25-17.13.19:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2023.09.25-17.13.19:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2023.09.25-17.13.19:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2023.09.25-17.13.19:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2023.09.25-17.13.19:011][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.09.25-17.13.19:197][  0]LogTexture: Display: Waiting for textures to be ready 8/26 (/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight) ...
+[2023.09.25-17.13.19:540][  0]LogTexture: Display: Building textures: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight (RGBA16F, 7372x3686 x1x1x1) (Required Memory Estimate: 932.979996 MB), EncodeSpeed: Fast
+[2023.09.25-17.13.19:986][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.25-17.13.20:647][  0]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.114463 seconds
+[2023.09.25-17.13.20:647][  0]LogSerialization: UsePackageTrailer: 'true'
+[2023.09.25-17.13.21:059][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2023.09.25-17.13.21:059][  0]LogSavePackage: Moving 'C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Saved/HDRI_Epic_Courtyard_Daylight9DF5345F421E2C2A66724BA2DF36CCC4.tmp' to 'C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset'
+[2023.09.25-17.13.21:099][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec
+[2023.09.25-17.13.21:113][  0]LogFeaturePack: Inserted 1 feature packs
+[2023.09.25-17.13.21:114][  0]Cmd: MAP LOAD FILE="C:/Users/joher/Documents/GitHub/EscapeRoom/EscapeRoom/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.25-17.13.21:115][  0]LightingResults: New page: Diseñar la iluminación
+[2023.09.25-17.13.21:119][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.09.25-17.13.21:119][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.25-17.13.21:119][  0]MapCheck: New page: Revisión del mapa
+[2023.09.25-17.13.21:119][  0]LightingResults: New page: Diseñar la iluminación
+[2023.09.25-17.13.21:125][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.25-17.13.21:128][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.09.25-17.13.21:877][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.09.25-17.13.21:877][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.25-17.13.21:877][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.25-17.13.21:878][  0]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.25-17.13.21:878][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.25-17.13.21:878][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.25-17.13.21:996][  0]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.09.25-17.13.21:996][  0]LogWorldPartition: Display: WorldPartition initialize took 118 ms
+[2023.09.25-17.13.22:014][  0]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_FPGun) ...
+[2023.09.25-17.13.22:331][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.25-17.13.22:374][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.09.25-17.13.22:374][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.25-17.13.22:375][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,324ms to complete.
+[2023.09.25-17.13.22:375][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 1.261
+[2023.09.25-17.13.22:392][  0]LogUnrealEdMisc: Total Editor Startup Time, took 364.477
+[2023.09.25-17.13.22:392][  0]LogShaderCompilers: Display: ================================================
+[2023.09.25-17.13.22:392][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.25-17.13.22:392][  0]LogShaderCompilers: Display: Total job queries 6266, among them cache hits 0 (0.00%)
+[2023.09.25-17.13.22:392][  0]LogShaderCompilers: Display: Tracking 6256 distinct input hashes that result in 4500 distinct outputs (71.93%)
+[2023.09.25-17.13.22:392][  0]LogShaderCompilers: Display: RAM used: 37.23 MB (0.04 GB) of 1638.40 MB (1.60 GB) budget. Usage: 2.27%
+[2023.09.25-17.13.22:392][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.25-17.13.22:392][  0]LogShaderCompilers: Display: Shaders Compiled: 6256
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Jobs assigned 6256, completed 6256 (100.00%)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Average time worker was idle: 0.02 s
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 175.53 s, longest 342.79 s
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Job execution time: average 4.37 s, max 50.22 s
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 179.90 s, max 344.11
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 345.23 s
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Jobs were issued in 644 batches (only local compilation was used), average 9.71 jobs/batch
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Average processing rate: 18.12 jobs/sec
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Total thread time: 2594.05 s
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Total thread preprocess time: 137.78 s
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Percentage time preprocessing: 5.31%
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Effective parallelization: 7.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 18.96 sec, max 48.32 sec, min 1.95 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.77 sec, max 6.68 sec, min 3.81 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.22 sec, max 8.61 sec, min 2.13 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.06 sec, max 4.02 sec, min 1.19 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.86 sec, max 2.24 sec, min 1.63 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.73% of total time (compiled  150 times, average 1.86 sec, max 2.24 sec, min 1.63 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 4.39% of total time (compiled    6 times, average 18.96 sec, max 48.32 sec, min 1.95 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                                                   FTonemapCS - 3.35% of total time (compiled  420 times, average 0.21 sec, max 0.24 sec, min 0.18 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 3.07% of total time (compiled  256 times, average 0.31 sec, max 0.50 sec, min 0.23 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 2.94% of total time (compiled  128 times, average 0.60 sec, max 0.93 sec, min 0.37 sec)
+[2023.09.25-17.13.22:393][  0]LogShaderCompilers: Display: ================================================
+[2023.09.25-17.13.22:804][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.25-17.13.22:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.25-17.13.22:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.25-17.13.22:846][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.25-17.13.23:184][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:184][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:185][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:185][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:186][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:186][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:186][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:187][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:187][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:187][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic games/UE_5.1/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.09.25-17.13.23:970][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.09.25-17.13.24:003][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.09.25-17.13.24:025][  0]LogSlate: Took 0.019589 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.09.25-17.13.24:053][  0]LogViewport: Scene viewport resized to 1526x585, mode Windowed.
+[2023.09.25-17.13.24:361][  0]LogSlate: Took 0.075343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.25-17.13.25:280][  0]LogStall: Startup...
+[2023.09.25-17.13.25:283][  0]LogStall: Startup complete.
+[2023.09.25-17.13.25:295][  0]LogLoad: (Engine Initialization) Total time: 367.38 seconds
+[2023.09.25-17.13.25:295][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.09.25-17.13.25:434][  0]AssetCheck: New page: Asset Save: HDRI_Epic_Courtyard_Daylight
+[2023.09.25-17.13.25:444][  0]LogContentValidation: Display: Validating /Script/Engine.TextureCube /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight
+[2023.09.25-17.13.25:521][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.09.25-17.13.25:664][  1]LogAssetRegistry: Asset discovery search completed in 363.2605 seconds
+[2023.09.25-17.13.25:683][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
